@@ -1,6 +1,7 @@
 # Sigma
 
-The code here is made publicly available for the research article "Self-Organizing to Learn Dynamical Hierarchies"
+The code here is made publicly available for the research article "Self-Organizing to Learn Dynamical Hierarchies".
+
 Refer to the article for details on the Sigma and the experiments performed.
 
 ## Usage example
@@ -17,7 +18,7 @@ If the parameter `verbose=1` or `verbose=1`, experiment results will be saved in
 
 ## Environments
 
-All environments data are saved in the 'data' folder.
+All environments data are stored in the 'data' folder.
 
 problem_index refers to the environments:
 
